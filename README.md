@@ -1,6 +1,6 @@
 # Easy-Visa-Project
 
-Problem Statement
+The objective of this analysis is to find patterns within the dataset to gain further understanding of the data and leverage it to choose a machine learning algorithm that can recommend a suitable profile for the applicants whose visa should be certified or denied
 
 Context:
 
@@ -43,5 +43,3 @@ unit_of_wage: Unit of prevailing wage. Values include Hourly, Weekly, Monthly, a
 full_time_position: Is the position of work full-time? Y = Full Time Position; N = Part Time Position
 
 case_status: Flag indicating if the Visa was certified or denied
-
-The objective of this analysis is to find patterns within the dataset to gain further understanding of the data and leverage it to choose a machine learning algorithm that can recommend a suitable profile for the applicants whose visa should be certified or denied
